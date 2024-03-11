@@ -37,3 +37,4 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
+Thus the distance between the two values are found successfully
